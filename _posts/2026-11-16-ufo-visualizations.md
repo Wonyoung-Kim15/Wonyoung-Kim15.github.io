@@ -62,7 +62,7 @@ description: Visualizing UFO sightings over time and across countries.
 
 <div class="ufo-content" markdown="1">
 
-For this assignment, I used a UFO sightings dataset to create two visualizations with **Python and Altair**. I wanted to see **how the number of reported sightings changed over time and what kinds of UFO shapes were commonly reported in different countries.**
+For this assignment, I used a **UFO sightings dataset** to create two visualizations with Python and Altair. I wanted to see **how the number of reported sightings changed over time** and **what kinds of UFO shapes were commonly reported in different countries.**
 
 ## 1. UFO Sightings Over Time
 
@@ -85,7 +85,7 @@ I also added a **dropdown menu** so users can select a country and see how the c
 ## 3. Data and Code
 
 - [Original UFO Sightings Dataset](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/ufo-scrubbed-geocoded-time-standardized-00.csv)
-- [Python Notebook on GitHub](https://github.com/Wonyoung-Kim15/Wonyoung-Kim15.github.io/blob/main/python_notebooks/ufo_visualizations.ipynb)
+- [Python Notebook on GitHub](https://github.com/Wonyoung-Kim15/Wonyoung-Kim15.github.io/blob/main/python_notebooks/ufo_visualizations.ipynb.ipynb)
 
 </div>
 
