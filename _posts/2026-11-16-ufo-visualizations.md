@@ -1,4 +1,3 @@
-
 ---
 title: UFO Sightings Visualization
 tags: ["# Data Visualization", "# UFO", "# Altair"]
