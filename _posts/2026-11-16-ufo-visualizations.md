@@ -85,7 +85,7 @@ I also added a **dropdown menu** so users can select a country and see how the c
 ## 3. Data and Code
 
 - [Original UFO Sightings Dataset](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/ufo-scrubbed-geocoded-time-standardized-00.csv)
-- [Python Notebook on GitHub](https://github.com/Wonyoung-Kim15/Wonyoung-Kim15.github.io/blob/main/python_notebooks/UFO_visualizations.ipynb)
+- [Python Notebook on GitHub](https://github.com/Wonyoung-Kim15/Wonyoung-Kim15.github.io/blob/main/python_notebooks/ufo_visualizations.ipynb.ipynb)
 
 </div>
 
