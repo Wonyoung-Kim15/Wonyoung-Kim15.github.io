@@ -1,6 +1,6 @@
 ---
 title: UFO Sightings Visualization
-tags: [# Data Visualization, # UFO, # Altair]
+tags: ["# Data Visualization", "# UFO", "# Altair"]
 style: fill
 color: secondary
 description: Visualizing UFO sightings over time and across countries.
